@@ -30,6 +30,8 @@ The reanalysis data is structured as follows:
 
 The reanalysis data was restructured to match the forecast data. Details about the processing steps can be found in (Houdou, 2025).
 
+The TensorFlow framework version 2.17.0 was used to train the U-Net models.
+
 
 
 ### References
