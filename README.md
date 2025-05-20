@@ -1,5 +1,5 @@
 # U-Net-Model-for-PM10
-This notebook contains the implementation of U-Net used in (Houdou, 2025) to forecast PM10 values in Morocco.
+This notebook contains the implementation of U-Net used in (Houdou et al., 2025) to forecast PM10 values in Morocco.
 
 The notebook uses pre-prepared data from Copernicus Atmosphere Monitoring Service (CAMS). The data is of two kinds: one is the reanalysis data, which serves as observational or reference data and contains concentrations of PM10. The other is forecast data, provided in the form of 8 NetCDF files containing forecasts for 8 predictors:
 
@@ -28,7 +28,7 @@ The reanalysis data is structured as follows:
 - 22 latitude points
 - 23 longitude points
 
-The reanalysis data was restructured to match the forecast data. Details about the processing steps can be found in (Houdou, 2025).
+The reanalysis data was restructured to match the forecast data. Details about the processing steps can be found in (Houdou et al., 2025).
 
 The TensorFlow framework version 2.17.0 was used to train the U-Net models.
 
