@@ -29,3 +29,9 @@ The reanalysis data is structured as follows:
 - 23 longitude points
 
 The reanalysis data was restructured to match the forecast data. Details about the processing steps can be found in (Houdou, 2025).
+
+
+
+References
+
+Houdou, A., Khomsi, K., Delle Monache, L., Hu, W., Boutayeb, S., Belyamani, L., Abdulla, F., El Badisy, I., Al-Delaimy, W. K., & Khalis, M. (2025). Enhancing 5-Day Particulate Matter (Pm10) Forecasts in Morocco Using U-Net: A Deep Learning Approach. SSRN. https://doi.org/10.2139/ssrn.5191935
