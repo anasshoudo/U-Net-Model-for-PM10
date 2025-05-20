@@ -16,14 +16,16 @@ The data spans from 2015 to 2023, covering the entire domain of Morocco.
 
 The forecast files are structured as follows:
 
-3,287 forecast reference times (initialization days)
-5 forecast periods (daily lead times)
-43 latitude points
-46 longitude points
+- 3,287 forecast reference times (initialization days)
+- 5 forecast periods (daily lead times)
+- 43 latitude points
+- 46 longitude points
+  
 The reanalysis data is structured as follows:
 
-3,287 forecast reference times (initialization days)
-5 forecast periods (daily lead times)
-22 latitude points
-23 longitude points
+- 3,287 forecast reference times (initialization days)
+- 5 forecast periods (daily lead times)
+- 22 latitude points
+- 23 longitude points
+
 The reanalysis data was restructured to match the forecast data. Details about the processing steps can be found in (Houdou, 2025).
