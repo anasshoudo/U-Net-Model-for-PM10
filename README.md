@@ -1,7 +1,7 @@
 # U-Net-Model-for-PM10
 This notebook contains the implementation of U-Net used in (Houdou, 2025) to forecast PM10 values in Morocco.
 
-This notebook uses pre-prepared data from Copernicus Atmosphere Monitoring Service (CAMS). The data is of two kinds: one is the reanalysis data, which serves as observational or reference data and contains concentrations of PM10. The other is forecast data, provided in the form of 8 NetCDF files containing forecasts for 8 predictors:
+The notebook uses pre-prepared data from Copernicus Atmosphere Monitoring Service (CAMS). The data is of two kinds: one is the reanalysis data, which serves as observational or reference data and contains concentrations of PM10. The other is forecast data, provided in the form of 8 NetCDF files containing forecasts for 8 predictors:
 
 - PM10 – Particulate Matter with aerodynamic diameter ≤10 µm
 - PM2.5 – Particulate Matter with aerodynamic diameter ≤2.5 µm
